@@ -16,5 +16,5 @@
 ![stopyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegusrb&show_icons=true)
 
 ### 💫 Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stopyoon)](https://solved.ac/jeffsep)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeffsep)](https://solved.ac/jeffsep)
 <a href="https://solved.ac/jeffsep"><img src="http://mazandi.herokuapp.com/api?handle=jeffsep&theme=cool"/>
