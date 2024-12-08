@@ -11,7 +11,7 @@
 </div>
 
 ### 👻 Stats
-![stopyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegusrb&show_icons=true)
+![leegusrb's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegusrb&show_icons=true)
 
 ### 💫 Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeffsep)](https://solved.ac/jeffsep)
