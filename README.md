@@ -18,7 +18,7 @@
 | 2023.07 <br> ~ 2023.11  | <a href="https://github.com/leegusrb/RPG">멀티플레이 RPG 게임 <br>RAW</a> | 게임 | 멀티플레이(통신), 기능 구현 | 
 | 2023.02 <br> ~ 2023.05 | <a href="https://github.com/leegusrb/BINARY-HOMEPAGE">BINARY homepage(2023 ver.)</a> | 웹 | 기획, 웹 백엔드(spring boot, mariadb) | 
 | 2022.11 <br> ~ 2022.12 | <a href="https://github.com/leegusrb/BINARY-ESG">다중 이용 시설의 효율적인 좌석 관리 서비스</a> | 웹, 인공지능 | 웹 백엔드(spring boot, h2) | 
-| 2022.07 <br> ~ 2022.08 | <a href="#"></a> | 앱 | 앱 프론트엔트, 백엔드(flutter) | 
+| 2022.07 <br> ~ 2022.08 | <a href="https://github.com/leegusrb/BINARY-ESG">Walking Reviewer(워리어)</a> | 앱 | 앱 프론트엔트, 백엔드(flutter) | 
 | 2021.12 <br> ~ 2022.02 | <a href="https://github.com/leegusrb/binary_homepage">BINARY hompage</a> | 웹 | 웹 백엔드(jsp, apache) | 
 
 # 👻 Stats
