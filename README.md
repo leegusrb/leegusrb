@@ -11,6 +11,7 @@
 
 # 🔭 Studying
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 # ⚡ Projects
 | 기간 | 프로젝트명 | 분야 | 역할 | 
