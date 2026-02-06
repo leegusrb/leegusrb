@@ -19,7 +19,7 @@
 # ⚡ Projects
 | 기간 | 프로젝트명 | 분야 | 역할 | 대회 및 수상 |
 | --- | --- | --- | --- | --- |
-| 2026.01 <br> ~ 2026.02  | <a href="https://github.com/26-AIoT">스마트 클래스 관리 시스템</a> | 웹 + AI | PM | IoT & AI Open Platform Challenge<br>우수상 |
+| 2026.01 <br> ~ 2026.02  | <a href="https://github.com/26-AIoT">스마트 클래스 관리 시스템</a> | 웹 + AI | PM, 백엔드(Spring Boot) | IoT & AI Open Platform Challenge<br>우수상 |
 | 2025.12 <br> ~ 2026.02  | <a href="https://github.com/AI-HeartQuiz">HeartQuiz</a> | 웹 + LLM | AI(Python, OpenAI API) | 
 | 2025.12  | <a href="https://github.com/leegusrb/25hackathon">학생 창업 팀을 위한 AI 서류 자동화 PM<br>BIZSTEP</a> | 웹 + LLM | 웹 백엔드(FastAPI) | 2025 SW AI 해커톤<br>금상 |
 | 2025.09 <br> ~ 2025.11  | <a href="https://github.com/chiyeon01/Retouching_Your_Photo">사진 구도 추천 앱</a> | 앱 + AI | 앱 백엔드(Flutter) | AI로봇학과 FOR 학술제 |
