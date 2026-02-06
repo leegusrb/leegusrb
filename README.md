@@ -22,14 +22,14 @@
 | 2026.01 <br> ~ 2026.02  | <a href="https://github.com/26-AIoT">스마트 클래스 관리 시스템</a> | 웹 + AI | PM | IoT & AI Open Platform Challenge<br>우수상 |
 | 2025.12 <br> ~ 2026.02  | <a href="https://github.com/AI-HeartQuiz">HeartQuiz</a> | 웹 + LLM | AI(Python, OpenAI API) | 
 | 2025.12  | <a href="https://github.com/leegusrb/25hackathon">학생 창업 팀을 위한 AI 서류 자동화 PM<br>BIZSTEP</a> | 웹 + LLM | 웹 백엔드(FastAPI) | 2025 SW AI 해커톤<br>금상 |
-| 2025.09 <br> ~ 2025.11  | <a href="https://github.com/chiyeon01/Retouching_Your_Photo">사진 구도 추천 앱</a> | 앱 + AI | 앱 백엔드(Flutter(dart)) | AI로봇학과 FOR 학술제 |
+| 2025.09 <br> ~ 2025.11  | <a href="https://github.com/chiyeon01/Retouching_Your_Photo">사진 구도 추천 앱</a> | 앱 + AI | 앱 백엔드(Flutter) | AI로봇학과 FOR 학술제 |
 | 2025.06 <br> ~ 2025.08  | <a href="https://github.com/web-MINDI">AI 치매 진단&관리 서비스<br>MINDI</a> | 웹 + LLM | 웹 백엔드(FastAPI, MySQL) | 
 | 2025.06 <br> ~ 2025.07  | <a href="https://github.com/ETF-Service">적립식 투자자를 위한 챗봇&알림 서비스</a> | 웹 + LLM | 웹 백엔드(FastAPI), 프론트엔드(React, Vite) | 제9회 미래에셋증권 AI 페스티벌 |
 | 2023.07 <br> ~ 2023.11  | <a href="https://github.com/leegusrb/RPG">멀티플레이 RPG 게임 <br>RAW</a> | 게임 | 멀티플레이(통신), 기능 구현 | 
-| 2023.02 <br> ~ 2023.05 | <a href="https://github.com/leegusrb/BINARY-HOMEPAGE">BINARY homepage(2023 ver.)</a> | 웹 | 기획, 웹 백엔드(spring boot, mariadb) | 
-| 2022.11 <br> ~ 2022.12 | <a href="https://github.com/leegusrb/BINARY-ESG">다중 이용 시설의 효율적인 좌석 관리 서비스</a> | 웹, 인공지능 | 웹 백엔드(spring boot, h2) | 제1회 소프트웨어융합대학 학술제<br>3등 |
-| 2022.07 <br> ~ 2022.08 | <a href="https://github.com/leegusrb/Walking-Reviewer">Walking Reviewer(워리어)</a> | 앱 | 앱 프론트엔트, 백엔드(flutter) | 데이터사이언스학과 X 지능기전공학부 연합학술제<br>우수상 |
-| 2021.12 <br> ~ 2022.02 | <a href="https://github.com/leegusrb/binary_homepage">BINARY hompage</a> | 웹 | 웹 백엔드(jsp, apache) | 
+| 2023.02 <br> ~ 2023.05 | <a href="https://github.com/leegusrb/BINARY-HOMEPAGE">BINARY homepage(2023 ver.)</a> | 웹 | 기획, 웹 백엔드(Spring Boot, MariaDB) | 
+| 2022.11 <br> ~ 2022.12 | <a href="https://github.com/leegusrb/BINARY-ESG">다중 이용 시설의 효율적인 좌석 관리 서비스</a> | 웹 + AI | 웹 백엔드(Spring Boot, H2) | 제1회 소프트웨어융합대학 학술제<br>3등 |
+| 2022.07 <br> ~ 2022.08 | <a href="https://github.com/leegusrb/Walking-Reviewer">Walking Reviewer(워리어)</a> | 앱 | 앱 프론트엔트, 백엔드(Flutter) | 데이터사이언스학과 X 지능기전공학부 연합학술제<br>우수상 |
+| 2021.12 <br> ~ 2022.02 | <a href="https://github.com/leegusrb/binary_homepage">BINARY hompage</a> | 웹 | 웹 백엔드(jsp) | 
 
 # 👻 Stats
 ![leegusrb's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegusrb&show_icons=true)
